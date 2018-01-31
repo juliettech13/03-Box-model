@@ -1,0 +1,85 @@
+.profilepic {
+  width: 300px;
+  border-radius: 50%;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  color: #111F4D;
+  text-align: center;
+  font-size: 30px;
+}
+
+body {
+  background-color: #6D85A5;
+  line-height: normal;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  color: #111F4D;
+  font-weight: bold;
+  font-size: 20px;
+  color: #073B3A;
+}
+
+p {
+  font-family: 'Montserrat', serif;
+  color: #111F4D;
+}
+
+li {
+  display: inline-block;
+}
+
+.social_media {
+  font-family: 'Montserrat', serif;
+  font-size: 13px;
+  text-decoration: none
+  color: #2C124C;
+  margin-right: 40px;
+}
+
+a:hover {
+  color: #5E0035;
+}
+
+.card {
+  /*background: #5E0035;*/
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 60px
+}
+
+.container {
+  background: #DCDFF7;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 30px
+}
+
+.images {
+  width: 150px;
+}
+
+.books_card {
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 60px
+  display: inline-block;
+}
+
+.book_title {
+  color: #111F4D;
+}
+
+.book_desc {
+  margin-right: 10px;
+}
